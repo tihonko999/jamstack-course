@@ -1,0 +1,21 @@
+{
+    "editor.bracketPairColorization.enabled": true,
+    "editor.tabSize": 2,
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    // https://www.meidev.co/blog/visual-studio-code-css-linting-with-tailwind/
+    "css.validate": false,
+    "scss.validate": false,
+    "editor.quickSuggestions": {
+      "strings": true
+    },
+    "emmet.includeLanguages": {
+      "javascript": "javascriptreact"
+    },
+    "[typescript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "typescript.inlayHints.parameterNames.enabled": "all",
+    "javascript.inlayHints.parameterNames.enabled": "all"
+  }
+  
