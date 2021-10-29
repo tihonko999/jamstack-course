@@ -1,0 +1,24 @@
+{
+  "name": "jamstack-intro",
+  "version": "1.0.0",
+  "description": "This is the code for a Frontend Masters workshop. In this workshop, we’ll learn what the JAMstack is, what it’s capable of, and how we can use it to build full-featured apps with less complexity and overhead.",
+  "scripts": {
+    "dev": "gatsby develop"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irbis999/jamstack-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irbis999/jamstack-course/issues"
+  },
+  "homepage": "https://github.com/irbis999/jamstack-course#readme",
+  "dependencies": {
+    "gatsby": "^4.0.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
